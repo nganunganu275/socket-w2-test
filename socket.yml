@@ -1,0 +1,4 @@
+version: 2
+projectIgnorePaths:
+  - "package.json"
+  - "package-lock.json"
