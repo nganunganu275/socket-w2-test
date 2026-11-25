@@ -1,0 +1,6 @@
+version: 2
+issueRules:
+  malware: false
+  installScripts: false
+  troll: false
+  telemetry: false
